@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据结构课程设计", "数据结构课程设计\数据结构课程设计.vcxproj", "{3C045212-7070-4F5C-AC3C-FF939342BE32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C045212-7070-4F5C-AC3C-FF939342BE32}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C045212-7070-4F5C-AC3C-FF939342BE32}.Debug|Win32.Build.0 = Debug|Win32
+		{3C045212-7070-4F5C-AC3C-FF939342BE32}.Release|Win32.ActiveCfg = Release|Win32
+		{3C045212-7070-4F5C-AC3C-FF939342BE32}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
